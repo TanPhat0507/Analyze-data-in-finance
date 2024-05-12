@@ -1,14 +1,14 @@
 # Analyze-data-in-finance
 Project is a collaboration with HUB university students to learn and analyze data in businesses, cash flows or stocks. From drawing charts and analyzing data, making comments. The project is coded in python and will be implemented in the summer of 2023.
 
-Analyze stocks - 17/05/2023:
+**Analyze stocks - 17/05/2023:**
 
-Dataset:
+_Dataset:_
 
 [Dữ liệu quý chứng khoán năm.csv](https://github.com/TanPhat0507/Analyze-data-in-finance/files/15285442/D.li.u.quy.ch.ng.khoan.nam.csv)
 [Phân nhóm ngành 21042023.xlsx](https://github.com/TanPhat0507/Analyze-data-in-finance/files/15285441/Phan.nhom.nganh.21042023.xlsx)
 
-Graph:
+_Graph:_
 
 ![Screenshot 2024-05-12 144353](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/63f83dc4-54a2-4f3c-b79c-72d5b42a8a32)
 ![Screenshot 2024-05-12 144808](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/c01239df-9fc7-4fc2-abcc-c4ef87eca098)
@@ -17,20 +17,20 @@ Graph:
 ![Screenshot 2024-05-12 144833](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/218fbeb6-0c18-4815-970a-4977bb273fe9)
 ![Screenshot 2024-05-12 144755](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/8f8566f2-b614-49cb-963a-0f6a72073cfb)
 
-Analyze revenue - 15/05/2023:
+**Analyze revenue - 15/05/2023:**
 
 ![Screenshot 2024-05-12 150148](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/c80fb1b8-6243-4116-b608-babdb5453cc9)
 ![Screenshot 2024-05-12 150210](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/a0246f40-e67b-4368-9919-2c71dafdc479)
 ![Screenshot 2024-05-12 150217](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/0b486cd6-43be-46ee-9664-1e8c014908cf)
 
-Analyze the group of jobs - 05/05/2023:
+**Analyze the group of jobs - 05/05/2023:**
 
-Dataset:
+_Dataset:_
 
 [Ngành.xlsx](https://github.com/TanPhat0507/Analyze-data-in-finance/files/15285479/Nganh.xlsx)
 ![Screenshot 2024-05-12 150624](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/4cf7c4c2-332f-42ff-aca5-a2980c135c57)
 
-Result:
+_Result:_
 
 
 ![Screenshot 2024-05-12 150633](https://github.com/TanPhat0507/Analyze-data-in-finance/assets/147356285/a90d3a3a-252e-4dae-8cff-5927ad210c5d)
